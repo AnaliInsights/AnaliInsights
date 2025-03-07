@@ -13,8 +13,8 @@ I'm always open to connecting and collaborating on exciting projects—let’s l
 ###
 
 <p align="left">Recently Graduated from <b>Sigma Academy</b><br/>
-  
-<ul>🎯 Goals: 
+<h2 align="left">Goals</h2>
+<ul> 
     <li>🚀 Build and share real-world data analysis projects </li>
     <li>📊 Improve data visualization skills using Tableau and PowerBI </li> 
     <li>🛠 Learn automation and workflow optimization using SQL & Python </li> 
